@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Spyros Papasykiotis
 
-🔍 Enthusiast in Machine Learning, Scientific Computing
-🎓 Computer Science Graduate from the University of Thessaly  
+🔍 Enthusiast in Machine Learning, Scientific Computing   
+🎓 Computer Science Graduate from the University of Thessaly   
 
 ---
 
