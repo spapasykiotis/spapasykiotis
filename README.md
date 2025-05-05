@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Spyros Papasykiotis
 
-<!--
-**spapasykiotis/spapasykiotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Enthusiast in Machine Learning, Scientific Computing
+🎓 Computer Science Graduate from the University of Thessaly  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm passionate about technology, data, and building things that work.  
+I enjoy working with Python and open-source tools to solve real problems and explore new ideas.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- 💻 **Languages:** Python, Java, C, SQL  
+- 📚 **Libraries:** NumPy, SciPy, Pandas, MatplotLib
+- 🧰 **Tools:** Git, Linux, VirtualBox  
+
+---
+
+## 📚 Highlights
+ 
+- Βachelor Thesis: Simulation and Optimization of AMRs Management System for Warehouse Environments
+  
+
+---
+
+## 📫 Find Me Here
+
+- 🌐 [GitHub](https://github.com/spapasykiotis)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/spapasykiotis/)  
+- ✉️ spyrospapasykiotis@gmail.com  
+
+---
+
+## ⚙️ Hobbies
+
+Tinkering with hardware (PCB soldering), wood crafting
